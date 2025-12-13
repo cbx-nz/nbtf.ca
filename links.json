@@ -1,29 +1,6 @@
 {
   "categories": [
     {
-      "name": "Subdomains",
-      "links": [
-        {
-          "title": "civblog",
-          "description": "Civilian Blogging Platform",
-          "url": "//civblog.nbtf.ca",
-          "displayUrl": "civblog.nbtf.ca"
-        },
-        {
-          "title": "Register",
-          "description": "Registration Portal for Subdomains and Emails",
-          "url": "//register.nbtf.ca",
-          "displayUrl": "register.nbtf.ca"
-        },
-        {
-          "title": "Domain's Directory",
-          "description": "Directory of all nbtf.ca subdomains and emails",
-          "url": "//nbtf.ca",
-          "displayUrl": "nbtf.ca"
-        }
-      ]
-    },
-    {
         "name": "Official Links",
         "links": [
           {
@@ -34,21 +11,44 @@
     }
   ]
 },
+    {
+      "name": "Subdomains",
+      "links": [
+                {
+          "title": "Register",
+          "description": "Registration Portal for Subdomains and Emails",
+          "url": "//register.nbtf.ca",
+          "displayUrl": "register.nbtf.ca"
+        },
+        {
+          "title": "Domain's Directory",
+          "description": "Directory of all nbtf.ca subdomains and emails",
+          "url": "//nbtf.ca",
+          "displayUrl": "nbtf.ca"
+        },
+        {
+          "title": "civblog",
+          "description": "Civilian Blogging Platform",
+          "url": "//civblog.nbtf.ca",
+          "displayUrl": "civblog.nbtf.ca"
+        }
+      ]
+    },
 {
     "name": "Public Emails",
     "links": [
+      {
+            "title": "Official: Admin Contact",
+            "description": "Contact email for the site administrator",
+            "url": "mailto:admin@nbtf.ca",
+            "displayUrl": "admin@nbtf.ca"
+        },
       {
         "title": "Faction: just another faction",
         "description": "Contact email for just another faction",
         "url": "mailto:jaf@nbtf.ca",
         "displayUrl": "jaf@nbtf.ca"
 },
-        {
-            "title": "Official: Admin Contact",
-            "description": "Contact email for the site administrator",
-            "url": "mailto:admin@nbtf.ca",
-            "displayUrl": "admin@nbtf.ca"
-        },
         {
             "title": "Faction: Channel 6 News",
             "description": "Contact email for Channel 6 News faction",
