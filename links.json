@@ -14,6 +14,12 @@
             "description": "The homepage for nbtf.ca website",
             "url": "//web.nbtf.ca",
             "displayUrl": "web.nbtf.ca"
+    },
+    {
+      "title": "NBTF.CA but Vite React",
+            "description": "The homepage for nbtf.ca website using Vite React",
+            "url": "//react.nbtf.ca",
+            "displayUrl": "react.nbtf.ca"
     }
   ]
 },
