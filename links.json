@@ -75,14 +75,14 @@
       {
         "title": "Faction: just another faction",
         "description": "Contact email for just another faction",
-        "url": "mailto:jaf@nbtf.ca",
-        "displayUrl": "jaf@nbtf.ca"
+        "url": "mailto:jaf@factions.nbtf.ca",
+        "displayUrl": "jaf@factions.nbtf.ca"
 },
         {
             "title": "Faction: Channel 6 News",
             "description": "Contact email for Channel 6 News faction",
-            "url": "mailto:c6n@nbtf.ca",
-            "displayUrl": "c6n@nbtf.ca"}
+            "url": "mailto:c6n@factions.nbtf.ca",
+            "displayUrl": "c6n@factions.nbtf.ca"}
     ]
 }
 ]
